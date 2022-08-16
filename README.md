@@ -20,3 +20,6 @@ I'm also searching for help with rendering html in lwjgl
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ForBai&icon=0&color=3)](https://visitcount.itsvg.in)
+
+### Random other things
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
