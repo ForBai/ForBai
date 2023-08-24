@@ -1,6 +1,5 @@
 # 💫About Me :
 I'm currently working on some Minecraft mods but also other things.
-I'm also searching for help with rendering html in lwjgl
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Anemoi#7990) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Firbolq) 
